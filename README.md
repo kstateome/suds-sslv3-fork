@@ -10,4 +10,4 @@ The purpose of this fork is to impiment SSLv3 Handling to the python suds SOAP L
 Install
 -------
 
-pip install git+ssh://git@github.com/kstateome/suds-sslv3-fork.git@master#egg=suds
+pip install git+ssh://git@github.com/kstateome/suds-sslv3-fork.git@0.4.1#egg=suds
